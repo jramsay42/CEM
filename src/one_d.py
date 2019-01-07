@@ -104,3 +104,6 @@ for t_idx in range(T.size):
 #Update FTs
 
 #Visualize simulation
+
+def one_dimensional_fdtd():
+    pass
